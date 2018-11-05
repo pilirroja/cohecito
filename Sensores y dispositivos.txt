@@ -1,0 +1,14 @@
+1.-> MICRO: tsm320F28335
+2.-> Drivers (x2): Pololu DRV8835 Dual Motor Driver Kit for Raspberry Pi.
+3.-> Acelerómetro:  GY-521
+	https://playground.arduino.cc/Main/MPU-6050
+4.-> Sensor ultrasonido:  HC-SR04
+5.-> Plataforma: 4WD Mobile Platform (SKU:ROB0003)
+6.-> BLUETOOTH: HC06
+
+
+PARA LA SEMANA QUE VIENE: DIAGRAMA DE BLOQUES DE CONEXIÓN y 
+diagrama de bolas de la máquina de estados: 
+
+-> 1 MAQUINA DE ESTADOS/MOTOR
+-> 1 MAQUINA PARA BLUETOOTH
